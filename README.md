@@ -7,36 +7,32 @@
 
 
 
-# <h1 align="center" id="heading"># Project Title-Team Members: Person 1, Person 2
+# <h1 align="center" id="heading"># Project Title: Team Members: Person 1, Person 2
 </h1>
 
 
  
 
-### PROJECT TITLE: Project Title
+### PROJECT TITLE: Edmonton poperty map
 
-Welcome to the repository for our Capstone project at Norquest College. This project aims to ...
+this is the edmonton property assessment map generated using google my map and stremlit
 
-### Problem Statement
 
-Describe Problem statement here
-
-### Solution
-
-Proposed Solution & Models used
 
 ### Repository Structure
 
 The repository contains the following files:
 
-data.csv: Describe dataset
+app.py file: this is the application file.
+requirements.txt
+
 
 
 ### Team Members
 
 Our team consists of the following members:
 
-[Uchenna Mgbaja](https://www.linkedin.com/in/marianmgbaja/)
+ramanjot and jashanpreet
 
 
 
